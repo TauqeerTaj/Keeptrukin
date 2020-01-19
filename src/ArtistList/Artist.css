@@ -1,0 +1,19 @@
+@media screen and (max-width: 1024px){
+    .tabs{width: 40% !important; margin-top:20px}
+    .tabs .img{width: 20% !important;}
+    .tabs .name{width: 80%}
+}
+@media screen and (max-width: 992px){
+    .tabs{width: 45% !important;}
+}
+@media screen and (max-width: 768px){
+    .tabs{width: 67% !important;}
+}
+@media screen and (max-width: 520px){
+    .tabs{width: 100% !important;}
+    .main{ width:100%!important;margin-top:0px!important}
+    .tabs .img{width: 100% !important;text-align:center;margin-bottom:30px}
+    .tabs .name{width: 100%!important;text-align:center}
+    .Maininput{transform: translate(0px);padding:30px 20px;}
+    .inputSection{width:100%!important;}
+}
